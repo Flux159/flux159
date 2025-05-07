@@ -2,7 +2,7 @@
 
 ### About Me
 
-Former staff software engineer at Meta, worked on Facebook's internal jupyter notebook tool called Bento and at Oculus on WebGPU technology. Ex-CTO of Lastmile AI and formerly engineer at Oscar Health.
+Former staff software engineer at [Meta](https://www.meta.com/), worked on Facebook's internal jupyter notebook tool called [Bento](https://developers.facebook.com/blog/post/2021/09/20/eli5-bento-interactive-notebook-empowers-development-collaboration-best-practices/) and at Oculus on WebGPU technology. Ex-CTO of Lastmile AI and formerly software engineer at [Oscar Health](https://www.hioscar.com/).
 
 Currently building a new AI startup in San Francisco.
 
