@@ -9,6 +9,7 @@ Currently building a new AI startup in San Francisco. Read my blog at [suyogs.co
 ### Open source Projects
 * [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) - A kubernetes MCP server
 * [mcp-chat](https://github.com/flux159/mcp-chat) - A CLI and web client to test out MCP servers for developers
+* [spanner-orm](https://github.com/flux159/spanner-orm) - An ORM for Google Cloud Spanner & Postgres / Pglite
 * [claude-code-go](https://github.com/flux159/claude-code-go) - An api server and mobile client for [Claude Code](https://github.com/anthropics/claude-code)
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/suyogsonwalkar/).
