@@ -7,6 +7,7 @@ Former staff software engineer at [Meta](https://www.meta.com/), worked on Faceb
 Currently building a new AI startup in San Francisco. Read my blog at [suyogs.com](https://suyogs.com).
 
 ### Open source Projects
+* [mystral-native](https://github.com/mystralengine/mystralnative/) - A native WebGPU JS runtime (think: node.js for WebGPU / Games)
 * [mcp-server-kubernetes](https://github.com/flux159/mcp-server-kubernetes) - A kubernetes MCP server
 * [mcp-chat](https://github.com/flux159/mcp-chat) - A CLI and web client to test out MCP servers for developers
 * [spanner-orm](https://github.com/flux159/spanner-orm) - An ORM for Google Cloud Spanner & Postgres / Pglite
