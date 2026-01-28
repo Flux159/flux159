@@ -4,7 +4,7 @@
 
 Former staff software engineer at [Meta](https://www.meta.com/), worked on Facebook's internal jupyter notebook tool called [Bento](https://developers.facebook.com/blog/post/2021/09/20/eli5-bento-interactive-notebook-empowers-development-collaboration-best-practices/) and at Oculus on WebGPU technology. Ex-CTO of Lastmile AI and formerly software engineer at [Oscar Health](https://www.hioscar.com/).
 
-Currently building a new AI startup in San Francisco. Read my blog at [suyogs.com](https://suyogs.com).
+Currently building a new AI and Gaming startup, [Chronotale](https://chronotale.com/) in San Francisco. Read my blog at [suyogs.com](https://suyogs.com).
 
 ### Open source Projects
 * [mystral-native](https://github.com/mystralengine/mystralnative/) - A native WebGPU JS runtime (think: node.js for WebGPU / Games)
